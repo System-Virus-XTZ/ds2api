@@ -1,0 +1,3 @@
+"""
+OpenAI HTTP API module
+"""
